@@ -4,6 +4,6 @@
 
 <div align="center">
 
-### 🛒 Smart Cart - 온/오프라인 마트 최저가 비교 서비스 🛒
+### 🛒&nbsp;&nbsp;Smart Cart - 온/오프라인 마트 최저가 비교 서비스 (PWA)&nbsp;&nbsp;🛒
 
 </div>
